@@ -1,5 +1,7 @@
 ## Hi. I'm Ruthie. (@Ruthie-FRC)
 
+If you are a student or FRC mentor and have any questions about my code, feel free to reach out!
+
 I'm a programmer for 6243 Energy NERDS.
 My hobbies include:
 - programming
@@ -17,3 +19,5 @@ Implementing Bayesian Optimization for a coefficident autotuner
 Fun facts: 
 - I'm a research intern
 - I was too lazy to finish my profile README.md
+- So I did not
+- Instead I worked on more bayesopt
