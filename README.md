@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi. I'm Ruthie. (@Ruthie-FRC)
 
-<!--
-**Ruthie-FRC/Ruthie-FRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer for 6243 Energy NERDS.
+My hobbies include:
+- programming
+- research
+- data analytics
+- not getting enough sleep at night
+- reading
+- statistics
+- engineering
+- whatever my current adhd hyperfixation is!
 
-Here are some ideas to get you started:
+My current passion project:
+Implementing Bayesian Optimization for a coefficident autotuner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts: 
+- I'm a research intern
+- I was too lazy to finish my profile README.md
