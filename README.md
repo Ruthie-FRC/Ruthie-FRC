@@ -22,3 +22,10 @@ Fun facts:
 - So I did not
 - Instead I worked on more bayesopt
 - bye!
+
+TODOS:
+-----------
+- 5892/Sidekick #5
+- 5892/Sidekick #6
+- 5892/Sidekick #10
+- more bayesopt!
