@@ -25,7 +25,8 @@ Fun facts:
 
 TODOS:
 -----------
-- 5892/Sidekick #5
-- 5892/Sidekick #6
-- 5892/Sidekick #10
-- more bayesopt!
+- 5892/Sidekick #5 - in progress 🟨
+- 5892/Sidekick #6 - in progress 🟨
+- 5892/Sidekick #10 - not started 🟥
+- more bayesopt! - done for now 🟩*
+- anti tipping - not startedn 🟥
