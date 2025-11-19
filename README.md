@@ -12,6 +12,7 @@ My hobbies include:
 - statistics
 - engineering
 - whatever my current adhd hyperfixation is!
+- ✨Shenanigans✨
 
 My current passion project:
 Implementing Bayesian Optimization for a coefficident autotuner
@@ -29,4 +30,4 @@ TODOS:
 - 5892/Sidekick #6 - in progress 🟨
 - 5892/Sidekick #10 - not started 🟥
 - more bayesopt! - done for now 🟩*
-- anti tipping - not startedn 🟥
+- anti tipping - not started 🟥
