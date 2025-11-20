@@ -11,6 +11,7 @@ My hobbies include:
 - reading
 - statistics
 - engineering
+- etymology 
 - whatever my current adhd hyperfixation is!
 - ✨Shenanigans✨
 
