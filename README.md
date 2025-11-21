@@ -2,7 +2,7 @@
 
 If you are a student or FRC mentor and have any questions about my code, feel free to reach out!
 
-I'm a programmer for 6243 Energy NERDS.
+I'm a programmer for the 6243 Energy NERDs.
 My hobbies include:
 - programming
 - research
