@@ -13,10 +13,18 @@ My hobbies include:
 - engineering
 - etymology 
 - whatever my current adhd hyperfixation is!
+- complex geospatial reasoning and logic
+- Independent mathematical research (formulating and proving original theorems)
+- Developing new equations to model and predict problems previously considered too complex
+- geometry
+- reading research papers
+- explaining ideas/concepts so poorly that the products of their misinterpertations
+  somehow help me prove my origional conjectures by accident
 - ✨Shenanigans✨
 
 My current passion project:
 Implementing Bayesian Optimization for a coefficident autotuner
+Some stuff thats secret... for now... 
 
 Fun facts: 
 - I'm a research intern
