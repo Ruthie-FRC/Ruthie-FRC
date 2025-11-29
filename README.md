@@ -39,7 +39,7 @@ TODOS:
 - 5892/Sidekick #5 - in progress 🟨
 - 5892/Sidekick #6 - in progress 🟨
 - 5892/Sidekick #10 - not started 🟥
-- more bayesopt! - done for now 🟩*
+- more bayesopt! - in progress 🟨*
 - anti tipping - not started 🟥
 
-*there is no such thing as too much bayesopt, hence it is never truly done.
+*there is no such thing as too much bayesopt, hence it is never truly done. Also, I have a lot more to add.
