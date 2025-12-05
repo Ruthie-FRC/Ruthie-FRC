@@ -38,3 +38,13 @@ Fun facts:
 TODOS:
 -----------
 - update TODOS
+
+**I apologize for the temporary private status of my open source repos. 
+ To everyone who has contacted me regarding them, I have not abandoned them.
+ However, I am experiencing issues regarding legal crediting issues.
+ Therefore, for my protection, they will be made private until:**
+1. I add liscense to them
+2. The issue is resolved
+3. They are in at least a v1 stopping point and are usable, if not fully fleshed out.
+
+**I appreciate the understanding, and if you are one of the organizations who have expressed interest, I am more than happy to continue to owk on your version of the software** 
