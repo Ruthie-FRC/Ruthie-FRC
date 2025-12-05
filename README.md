@@ -39,6 +39,8 @@ TODOS:
 -----------
 - update TODOS
 
+# Notes
+
 **I apologize for the temporary private status of my open source repos. 
  To everyone who has contacted me regarding them, I have not abandoned them.
  However, I am experiencing issues regarding legal crediting issues.
