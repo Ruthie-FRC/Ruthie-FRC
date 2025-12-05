@@ -43,7 +43,7 @@ TODOS:
 
 **I apologize for the temporary private status of my open source repos. 
  To everyone who has contacted me regarding them, I have not abandoned them.
- However, I am experiencing issues regarding legal crediting issues.
+ However, I am experiencing issues regarding legal crediting.
  Therefore, for my protection, they will be made private until:**
 1. I add liscense to them
 2. The issue is resolved
