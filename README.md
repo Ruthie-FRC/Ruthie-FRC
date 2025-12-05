@@ -49,4 +49,4 @@ TODOS:
 2. The issue is resolved
 3. They are in at least a v1 stopping point and are usable, if not fully fleshed out.
 
-**I appreciate the understanding, and if you are one of the organizations who have expressed interest, I am more than happy to continue to owk on your version of the software** 
+**I appreciate the understanding, and if you are one of the organizations who have expressed interest, I am more than happy to continue to work on your version of the software** 
