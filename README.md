@@ -19,6 +19,7 @@ My hobbies include:
 - Developing new equations to model and predict problems previously considered too complex
 - geometry
 - reading research papers
+- overcomplicating things
 - explaining ideas/concepts so poorly that the products of their misinterpertations
   somehow help me prove my origional conjectures by accident
 - ✨Shenanigans✨
