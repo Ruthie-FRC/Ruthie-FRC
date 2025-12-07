@@ -1,53 +1,57 @@
-## Hi. I'm Ruthie. (@Ruthie-FRC)
+## Hi, I'm Ruthie (@Ruthie-FRC)
 
-If you are a student or FRC mentor and have any questions about my code, feel free to reach out!
+If you're a student or an FRC mentor and have questions about my code, feel free to reach out.
 
-I'm a programmer for the 6243 Energy NERDs.
-My hobbies include:
-- programming
-- research
-- data analytics
-- not getting enough sleep at night
-- drinking tea
-- reading
-- statistics
-- engineering
-- etymology 
-- whatever my current adhd hyperfixation is!
-- complex geospatial reasoning and logic
-- Independent mathematical research (formulating and proving original theorems)
-- Developing new equations to model and predict problems previously considered too complex
-- geometry
-- reading research papers
-- overcomplicating things
-- explaining ideas/concepts so poorly that the products of their misinterpertations
-  somehow help me prove my origional conjectures by accident
-- ✨Shenanigans✨
+I'm a programmer for **FRC 6243 Energy NERDs**.
 
-My current passion project:
-Implementing Bayesian Optimization for a coefficident autotuner
+### Interests
 
-Some stuff thats secret... for now... 
+* Programming
+* Research
+* Data analytics
+* Not getting enough sleep
+* Tea
+* Reading
+* Statistics
+* Engineering
+* Etymology
+* Whatever my current ADHD hyperfocus is
+* Complex geospatial reasoning and logic
+* Independent mathematical research (formulating and proving original theorems)
+* Developing new equations for previously intractable problems
+* Geometry
+* Reading research papers
+* Overcomplicating things
+* Explaining concepts so badly that the resulting misinterpretations accidentally help me prove conjectures
+* ✨ Shenanigans ✨
 
-Fun facts: 
-- I'm a research intern
-- I was too lazy to finish my profile README.md
-- So I did not
-- Instead I worked on more bayesopt
-- bye!
+### Current Project
 
-TODOS:
------------
-- update TODOS
+**Bayesian Optimization–based coefficient autotuner**
+(A full implementation, actively being improved.)
 
-# Notes
+### Other Work
 
-**I apologize for the temporary private status of my open source repos. 
- To everyone who has contacted me regarding them, I have not abandoned them.
- However, I am experiencing issues regarding legal crediting.
- Therefore, for my protection, they will be made private until:**
-1. I add liscense to them
-2. The issue is resolved
-3. They are in at least a v1 stopping point and are usable, if not fully fleshed out.
+Some projects are currently private… for now.
 
-**I appreciate the understanding, and if you are one of the organizations who have expressed interest, I am more than happy to continue to work on your version of the software** 
+### Fun Facts
+
+* I'm a research intern
+* I absolutely meant to finish this README
+* I did not
+* I wrote more BayesOpt code instead
+
+---
+
+## Notes
+
+**Temporary Repository Privacy**
+
+Some open-source repositories are currently private due to unresolved issues regarding legal crediting. For my protection, they will remain private until:
+
+1. Proper licensing is added
+2. The crediting issue is resolved
+3. Each project reaches a usable v1 state
+
+Thank you for your patience. If you're one of the organizations who reached out, I’m still actively developing (or awaiting instruction to start work on) your version of the 
+software and am happy to continue collaborating.
