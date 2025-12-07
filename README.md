@@ -26,6 +26,7 @@ My hobbies include:
 
 My current passion project:
 Implementing Bayesian Optimization for a coefficident autotuner
+
 Some stuff thats secret... for now... 
 
 Fun facts: 
