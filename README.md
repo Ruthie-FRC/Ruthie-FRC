@@ -28,11 +28,11 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 ### Current Project
 
 **Bayesian Optimization–based coefficient autotuner**
-(A full implementation, actively being improved.)
+(A full implementation, actively being improved. Unlike my sleep schedule)
 
 ### Other Work
 
-Some projects are currently private… for now.
+Some projects are currently private… for now...
 
 ### Fun Facts
 
