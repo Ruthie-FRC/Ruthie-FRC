@@ -32,7 +32,11 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 
 ### Other Work
 
-Some projects are currently private… for now...
+Some projects are currently private...for now...
+
+Others are in progress
+
+Some may be sentient.. 
 
 ### Fun Facts
 
