@@ -47,14 +47,3 @@ Some may be sentient...
 ---
 
 ## Notes
-
-**Temporary Repository Privacy**
-
-Some open-source repositories are currently private due to unresolved issues regarding legal crediting. For my protection, they will remain private until:
-
-1. Proper licensing is added
-2. The crediting issue is resolved
-3. Each project reaches a usable v1 state
-
-Thank you for your patience. If you're one of the organizations who reached out, I’m still actively developing (or awaiting instruction to start work on) your version of the 
-software and am happy to continue collaborating.
