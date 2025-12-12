@@ -31,11 +31,7 @@ Feel free to reach out to me about creating non FRC versions!)
 
 ### Other Work
 
-Some projects are currently private...for now...
-
-Others are in progress
-
-Some may be sentient...
+Random Chaos™
 
 ### Fun Facts
 
