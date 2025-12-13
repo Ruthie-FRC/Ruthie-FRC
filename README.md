@@ -18,6 +18,7 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 * Independent mathematical research (formulating and proving original theorems)
 * Developing new equations for previously intractable problems
 * Geometry
+* Contributing to open source repos!
 * Reading research papers
 * Overcomplicating things
 * Explaining concepts so badly that the resulting misinterpretations accidentally help me prove conjectures
