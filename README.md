@@ -22,7 +22,7 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 * Reading research papers
 * Overcomplicating things
 * Explaining concepts so badly that the resulting misinterpretations accidentally help me prove conjectures
-* ✨ Shenanigans ✨
+* ✨Shenanigans✨
 
 ### Current Project
 
@@ -33,6 +33,8 @@ Feel free to reach out to me about creating non FRC versions!)
 ### Other Work
 
 Random Chaos™
+
+Some Satalite ✨Shenanigans✨
 
 ### Fun Facts
 
