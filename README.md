@@ -20,6 +20,7 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 * Geometry
 * Contributing to open source repos!
 * Reading research papers
+* Editing my README.md out of indecisiveness
 * Overcomplicating things
 * Explaining concepts so badly that the resulting misinterpretations accidentally help me prove conjectures
 * ✨Shenanigans✨
