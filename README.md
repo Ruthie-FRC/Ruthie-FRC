@@ -42,7 +42,7 @@ Some Satalite ✨Shenanigans✨
 * I'm a research intern
 * I absolutely meant to finish this README
 * I did not
-* I wrote more BayesOpt code instead
+* I wrote more MLtune code instead
 
 ---
 
