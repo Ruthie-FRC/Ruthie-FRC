@@ -1,6 +1,6 @@
 ## Hi, I'm Ruthie (@Ruthie-FRC)
 
-If you're a student or an FRC mentor and have questions about my code, feel free to reach out!
+If you have questions about my code, feel free to reach out!
 
 I'm a programmer for **FRC 6243 Energy NERDs**.
 
