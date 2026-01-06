@@ -27,7 +27,7 @@ I'm a programmer for **FRC 6243 Energy NERDs**.
 
 ### Current Project
 
-**Bayesian Optimization–based coefficient autotuner**
+**MLtune - A Bayesian Optimization–based Coefficient Autotuner**
 (A full, FRC-centric implementation, actively being improved.
 Feel free to reach out to me about creating non FRC versions!)
 
