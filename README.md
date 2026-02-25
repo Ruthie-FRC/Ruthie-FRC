@@ -2,9 +2,9 @@
 
 I'm a freshman in high school and a programmer for FRC 6243 Energy NERDs
 
-If there's ever any FRC code you need an extra person to help with, I'll gladly chip in, just tag me!
+I stay up too late doing code and math stuff and occasionally make somewhat cool things. 
 
-I really look up to the creators of major open source frc repos, and major open source repos in general, and I am really thankful for all of your contributions to the community!
+If you ever want help with frc code, just tag me! I have too much free time on my hands and am happy to help!
 
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ruthie-FRC/Ruthie-FRC/output/github-contribution-grid-snake.svg">
 
