@@ -4,7 +4,7 @@ I'm a freshman in high school and a programmer for FRC 6243 Energy NERDs.
 
 I stay up too late doing code and math stuff and occasionally make somewhat cool things. 
 
-Our robot has discount gravity. 2/3 of a gravity, really. If you find out who gave away the other third, I will give a reward in exchange for it being returned safely. 
+Our robot has discount gravity. 2/3 of a gravity, really.
 
 If you ever want help with frc code, just tag me! I have too much free time on my hands and am happy to help!
 
