@@ -1,6 +1,6 @@
 ## Hi! I'm Ruthie-FRC
 
-I'm a programmer for FRC 6243 Energy NERDs.
+I'm a programmer for FRC 6243 Energy NERDs and a CSAA.
 
 I stay up too late doing code and math stuff and occasionally make somewhat cool things. 
 
