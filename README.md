@@ -8,7 +8,7 @@ More often, I just break physics.
 
 I like planes and radar cross section math.
 
-I dislike it when the robot breaks, and when their circuit breakers get hot.
+One of my biggest pet peeves is when the circuit breaker of a robot gets so hot that it trips itself.
 
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ruthie-FRC/Ruthie-FRC/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ruthie-FRC/Ruthie-FRC/output/github-contribution-grid-snake.svg">
 
